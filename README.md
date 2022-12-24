@@ -1,2 +1,2 @@
-# turbo-palm-tree
+# JavaScript
 Js project
